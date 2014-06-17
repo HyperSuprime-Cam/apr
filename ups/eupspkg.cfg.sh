@@ -2,4 +2,4 @@
 
 export CFLAGS="$CFLAGS -fPIC"
 
-CONFIGURE_OPTIONS="--prefix=$PREFIX --disable-shared"
+CONFIGURE_OPTIONS="--prefix=$PREFIX"
